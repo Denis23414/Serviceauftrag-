@@ -1,2 +1,2 @@
 # Serviceauftrag-
-Serviceauftrag von Maikel, Tim, Denis Abschiebekovska
+Serviceauftrag von Maikel, Tim, Denis 
