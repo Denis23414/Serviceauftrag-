@@ -44,5 +44,5 @@ Eine webbasierte Auftrags-Management-Applikation zur Verwaltung von Serviceauftr
 
 ### 1. Repository klonen
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Denis23414/Serviceauftrag->
 cd m295
